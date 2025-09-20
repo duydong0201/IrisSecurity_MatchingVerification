@@ -1,1 +1,1 @@
-IrisProject
+IrisSecurityProject
